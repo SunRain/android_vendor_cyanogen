@@ -1,5 +1,6 @@
 add_lunch_combo cyanogen_ace-eng
 add_lunch_combo cyanogen_anzu-eng
+add_lunch_combo cyanogen_begonia-eng
 add_lunch_combo cyanogen_blade-eng
 add_lunch_combo cyanogen_bravo-eng
 add_lunch_combo cyanogen_bravoc-eng
@@ -24,7 +25,6 @@ add_lunch_combo cyanogen_hero-eng
 add_lunch_combo cyanogen_heroc-eng
 add_lunch_combo cyanogen_inc-eng
 add_lunch_combo cyanogen_jordan-eng
-add_lunch_combo cyanogen_begonia-eng
 add_lunch_combo cyanogen_legend-eng
 add_lunch_combo cyanogen_leo-eng
 add_lunch_combo cyanogen_liberty-eng
