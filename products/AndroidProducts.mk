@@ -8,6 +8,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/cyanogen_captivatemtd.mk \
     $(LOCAL_DIR)/cyanogen_click.mk \
     $(LOCAL_DIR)/cyanogen_begonia.mk \
+    $(LOCAL_DIR)/cyanogen_coconut.mk \
     $(LOCAL_DIR)/cyanogen_crespo.mk \
     $(LOCAL_DIR)/cyanogen_crespo4g.mk \
     $(LOCAL_DIR)/cyanogen_desirec.mk \
@@ -22,6 +23,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/cyanogen_hero.mk \
     $(LOCAL_DIR)/cyanogen_heroc.mk \
     $(LOCAL_DIR)/cyanogen_inc.mk \
+    $(LOCAL_DIR)/cyanogen_iyokan.mk \
     $(LOCAL_DIR)/cyanogen_jordan.mk \
     $(LOCAL_DIR)/cyanogen_galaxys2.mk \
     $(LOCAL_DIR)/cyanogen_galaxys2att.mk \
@@ -44,6 +46,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/cyanogen_passion.mk \
     $(LOCAL_DIR)/cyanogen_robyn.mk \
     $(LOCAL_DIR)/cyanogen_saga.mk \
+    $(LOCAL_DIR)/cyanogen_satsuma.mk \
     $(LOCAL_DIR)/cyanogen_shadow.mk \
     $(LOCAL_DIR)/cyanogen_shakira.mk \
     $(LOCAL_DIR)/cyanogen_sholes.mk \

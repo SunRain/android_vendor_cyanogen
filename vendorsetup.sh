@@ -7,6 +7,7 @@ add_lunch_combo cyanogen_bravoc-eng
 add_lunch_combo cyanogen_buzz-eng
 add_lunch_combo cyanogen_click-eng
 add_lunch_combo cyanogen_captivatemtd-eng
+add_lunch_combo cyanogen_coconut-eng
 add_lunch_combo cyanogen_crespo-eng
 add_lunch_combo cyanogen_crespo4g-eng
 add_lunch_combo cyanogen_desirec-eng
@@ -26,6 +27,7 @@ add_lunch_combo cyanogen_hallon-eng
 add_lunch_combo cyanogen_hero-eng
 add_lunch_combo cyanogen_heroc-eng
 add_lunch_combo cyanogen_inc-eng
+add_lunch_combo cyanogen_iyokan-eng
 add_lunch_combo cyanogen_jordan-eng
 add_lunch_combo cyanogen_legend-eng
 add_lunch_combo cyanogen_leo-eng
@@ -43,6 +45,7 @@ add_lunch_combo cyanogen_p999-eng
 add_lunch_combo cyanogen_passion-eng
 add_lunch_combo cyanogen_robyn-eng
 add_lunch_combo cyanogen_saga-eng
+add_lunch_combo cyanogen_satsuma-eng
 add_lunch_combo cyanogen_shadow-eng
 add_lunch_combo cyanogen_shakira-eng
 add_lunch_combo cyanogen_sholes-eng
