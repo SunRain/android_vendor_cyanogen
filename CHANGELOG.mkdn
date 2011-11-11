@@ -78,6 +78,33 @@ Translators:
 CHANGELOG (notable new features)
 ---------
 
+### 7.1.0-11 Jordan (11 Nov 2011) - CyanogenDefy Version
+
+Note: This is the Unofficial Stable 7.1 Version for Jordan
+      Released after OMAP4 merges which slow down the upstream merges
+
+      The official 7.1.0 and actual official nightlies doesn't include
+      all our features. That is the purpose of this release.
+
+* Common: Connection Profiles and Notifications Enhancements
+* Common: Lockscreen Calendar and options
+* Common: Phone Landscape Dialpad Layout*
+* Common: Keyboard : Swipe Gestures (caps, keyboard modes)*
+* Common: Device specific Settings Menu
+* Jordan: Multitouch and LED mode settings
+* Jordan: Compass calibration and DSP settings (from motorola)
+* Jordan: Better Battery Life
+* Jordan: Button Backlight Tuning
+* Jordan: Camera and videos Enhancements, enhanced stability*
+* Jordan: Fake pds partition to prevent alterations
+* Jordan: Enhanced ADB over Network (Notification icon)*
+* Jordan: Recovery 5.0.3.1 with devtree support
+* Jordan: Open source ADBD and Busybox "adb shell" with history saving
+* Jordan: Busybox 1.19.3*
+* Jordan: Market fingerprint and stability
+
+(*Not merged in upstream for the moment)
+
 ### 7.1.0
 * Common: Android 2.3.7 (Google)
 * Common: Bluetooth mouse support - Scott Brady
@@ -141,7 +168,7 @@ CHANGELOG (notable new features)
 * Encore: Working mem sleep
 * Encore: USB host support - Verygreen
 
-### 7.1.0-RC1.5 Jordan (3 Sep 2011)
+### 7.1.0-RC1.5 Jordan
 
 Note: Official jordan cyanogen builds are now booting
       but some work is required on video codecs
