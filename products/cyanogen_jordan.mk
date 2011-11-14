@@ -25,7 +25,7 @@ PRODUCT_SFX := JOREM_U3
 
 # Release name and versioning
 PRODUCT_RELEASE_NAME := Defy
-PRODUCT_VERSION_DEVICE_SPECIFIC := -11
+PRODUCT_VERSION_DEVICE_SPECIFIC :=
 -include vendor/cyanogen/products/common_versions.mk
 
 UTC_DATE := $(shell date +%s)
