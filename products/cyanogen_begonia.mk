@@ -5,7 +5,7 @@ $(call inherit-product, device/motorola/begonia/begonia.mk)
 $(call inherit-product, vendor/cyanogen/products/gsm.mk)
 
 # TI FM radio
-$(call inherit-product, vendor/cyanogen/products/ti_fm_radio.mk)
+# $(call inherit-product, vendor/cyanogen/products/ti_fm_radio.mk)
 
 # Inherit some common cyanogenmod stuff.
 $(call inherit-product, vendor/cyanogen/products/common_full.mk)
