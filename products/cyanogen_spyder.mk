@@ -11,7 +11,7 @@ $(call inherit-product, vendor/cyanogen/products/gsm.mk)
 $(call inherit-product, vendor/cyanogen/products/common_full.mk)
 
 # Extra  spyder overlay
-PRODUCT_PACKAGE_OVERLAYS += vendor/cyanogen/overlay/spyder
+#PRODUCT_PACKAGE_OVERLAYS += vendor/cyanogen/overlay/spyder
 
 # Add the Torch app
 PRODUCT_PACKAGES += Torch
